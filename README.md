@@ -1,4 +1,9 @@
-# Sample Output
+## Requirements
+Python CGAL Bindings: https://pypi.org/project/cgal-bindings/
+
+Windows Binary for Python 3.4: https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+## Sample Output (benchmark.py)
 
 Graham Andrew: 0.06000399589538574 seconds
 
